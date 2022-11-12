@@ -6,9 +6,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_avicii.mk
+    $(LOCAL_DIR)/twrp_RMX3312.mk
 
-COMMON_LUNCH_CHOICES := \
-    twrp_avicii-user \
-    twrp_avicii-userdebug \
-    twrp_avicii-eng
+COMMON_LUNCH_CHOICES := twrp_RMX3312-eng
