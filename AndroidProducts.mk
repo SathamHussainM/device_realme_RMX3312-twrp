@@ -15,5 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_RMX3371.mk
+    $(LOCAL_DIR)/twrp_porsche.mk
 
+COMMON_LUNCH_CHOICES := twrp_porsche-eng
