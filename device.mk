@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/realme/porsche
+#LOCAL_PATH := device/realme/porsche
 
 # A/B support
 AB_OTA_UPDATER := true
